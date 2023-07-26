@@ -1,4 +1,4 @@
-![Texto img](sources/kamelid-low-resolution-logo-white-on-transparent-background.png)
+![Texto img](kamelid-low-resolution-logo-color-on-transparent-background.png)
 
 ### `kamelid` is an orchestration framework to create customized AI powered chatbots
 
